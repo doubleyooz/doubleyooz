@@ -17,8 +17,8 @@
 </h4>
 
 <p align="center">
-   <img width="690" src="https://github.com/doubleyooz/doubleyooz/blob/main/stats.png" />
-   <img width="293" src="https://i.imgur.com/w0lL8fM.gif" />
+   <img width="693" src="https://github.com/doubleyooz/doubleyooz/blob/main/stats.png" />
+   <img width="285" src="https://i.imgur.com/w0lL8fM.gif" />
 </p>
 
 <h3 align="center">
