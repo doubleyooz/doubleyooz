@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/github/followers/doubleyooz?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="https://www.reddit.com/user/Vjoidjo">
-    <img src="https://img.shields.io/reddit/user-karma/combined/Vjoidjo?label=Reddit&logo=Reddit&style=for-the-badge" />
+    <img src="https://img.shields.io/reddit/user-karma/combined/basement_inmate?label=Reddit&logo=Reddit&style=for-the-badge" />
   </a>
   <a href="https://www.youtube.com/channel/UC2KCic3FxYaDy-R2HA8FebQ">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC2KCic3FxYaDy-R2HA8FebQ?label=youtube&logo=youtube&style=for-the-badge" />
