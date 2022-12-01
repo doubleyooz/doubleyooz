@@ -2,8 +2,8 @@
   <a href="https://github.com/doubleyooz?tab=followers">
     <img src="https://img.shields.io/github/followers/doubleyooz?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="https://www.reddit.com/user/Vjoidjo">
-    <img src="https://img.shields.io/reddit/user-karma/combined/basement_inmate?label=Reddit&logo=Reddit&style=for-the-badge" />
+  <a href="https://www.reddit.com/user/Basement_Dweller7530">
+    <img src="https://img.shields.io/reddit/user-karma/combined/Basement_Dweller7530?label=Reddit&logo=Reddit&style=for-the-badge" />
   </a>
   <a href="https://www.youtube.com/channel/UC2KCic3FxYaDy-R2HA8FebQ">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC2KCic3FxYaDy-R2HA8FebQ?label=youtube&logo=youtube&style=for-the-badge" />
@@ -65,6 +65,10 @@
   <a href="https://cardano.org">
     <img height="40" src="https://cdn4.iconfinder.com/data/icons/crypto-currency-and-coin-2/256/cardano_ada-512.png">
   </a>
+  
+  <a href="https://elm-lang.org/">
+    <img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/elm_original_logo_icon_146536.png">
+  </a>
 </p>
 
 <div align="center" style="display: inline_block">
@@ -85,18 +89,22 @@
   - Looking for a job<br>
   - Working on my portfolio (no excuses this time).<br>
   - Studying <i>haskell</i> once again.<br>
-  - Giving <i>elm</i> a chance.<br>
+  - Going all-in with <i>elm</i> and React.<br>
   - Inspired to try <i>vuejs</i>.<br>
   - Dabbling with <i>fastify</i> and eager to learn something else.<br>
-  - Working to get <i>java</i> below 20%.<br>
-  <strike>- Studying <i>fsharp</i>.<br></strike>
-  <strike>- Diving in <i>solidity</i> and <i>ethereum</i> environment.<br></strike>
-  <strike>- Mastering figma.<br></strike>
-  <strike>- Trying chakra-ui out.<br></strike>
-  <strike>- Getting a girlfriend.<br></strike>
-  <strike>- Quitting college.<br></strike>
+  - I WILL BRING <i> java </i> BELOW 20%.<br>
 </p>
 
+<h3 align="center">I long to...</h3>
+<p align="center">
+  - Work in a place where functional programming is the norm. <br>
+  - Dive in web3 programming. <br>
+  - Go back studying the Cardano Ecossystem.<br>
+  - Master Figma. <br>
+  - Try out SolidJs. <br>
+  - Quit college. <br>
+ 
+</p>
 
 ## 🥸 Support me
    <h3 align="center">Do want to send me some love? Any help will make a huge impact in my life 🙌</h3>
