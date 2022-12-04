@@ -26,38 +26,42 @@
 </h3>
 
 <p align="center">
+  <a href="https://elm-lang.org/">
+    <img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/elm_original_logo_icon_146536.png">
+  </a>
+  
+  <a href="https://www.haskell.org">
+    <img height="40" src="https://user-images.githubusercontent.com/51978077/140576766-ab399d4a-6903-4a8b-b2df-8184ed18f524.png">
+  </a>
+  
   <a href="https://www.javascript.com">
     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
   </a>
 
   <a href="https://www.typescriptlang.org">
     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-  </a>
+  </a> 
    
-  <a href="https://www.haskell.org">
-    <img height="40" src="https://user-images.githubusercontent.com/51978077/140576766-ab399d4a-6903-4a8b-b2df-8184ed18f524.png">
+  <a href="https://nodejs.org/en/">
+    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
   </a>
-   
+
   <a href="https://reactjs.org">
     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
   </a>
-
-  <a href="https://nodejs.org/en/">
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-   </a>
   
   <a href="https://expressjs.com">
     <img height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png">
   </a>
-   
+  
+  <a href="https://www.fastify.io">
+    <img height="40" src="https://avatars.githubusercontent.com/u/24939410?s=200&v=4">
+  </a>   
+  
   <a href="https://nestjs.com">
     <img height="40" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg">
   </a>
-   
-  <a href="https://www.fastify.io">
-    <img height="40" src="https://avatars.githubusercontent.com/u/24939410?s=200&v=4">
-  </a>
-   
+    
   <a href="https://mongoosejs.com">
     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png">
   </a>
@@ -66,9 +70,7 @@
     <img height="40" src="https://cdn4.iconfinder.com/data/icons/crypto-currency-and-coin-2/256/cardano_ada-512.png">
   </a>
   
-  <a href="https://elm-lang.org/">
-    <img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/elm_original_logo_icon_146536.png">
-  </a>
+ 
 </p>
 
 <div align="center" style="display: inline_block">
@@ -89,7 +91,7 @@
   - Looking for a job<br>
   - Working on my portfolio (no excuses this time).<br>
   - Studying <i>haskell</i> once again.<br>
-  - Going all-in with <i>elm</i> and React.<br>
+  - Going all-in with <i>elm</i> and <i>reactjs</i>.<br>
   - Inspired to try <i>vuejs</i>.<br>
   - Dabbling with <i>fastify</i> and eager to learn something else.<br>
   - I WILL BRING <i> java </i> BELOW 20%.<br>
@@ -101,7 +103,8 @@
   - Dive in web3 programming. <br>
   - Go back studying the Cardano Ecossystem.<br>
   - Master Figma. <br>
-  - Try out SolidJs. <br>
+  - Try out <i>solidJs</i>. <br>
+  - Work on my youtube channel. <br>
   - Quit college. <br>
  
 </p>
