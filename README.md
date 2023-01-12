@@ -75,11 +75,11 @@
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
-     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=doubleyooz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+     <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=doubleyooz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   </a>
      
   <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
-     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doubleyooz&hide=html&layout=compact&theme=radical&langs_count=6"/>
+     <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=doubleyooz&hide=html&layout=compact&theme=radical&langs_count=6"/>
   </a>
 </div>
    
@@ -97,7 +97,7 @@
   - I WILL BRING <i> java </i> BELOW 20%.<br>
 </p>
 
-<h3 align="center">I long to...</h3>
+<h3 align="center">I'm eager to...</h3>
 <p align="center">
   - Work in a place where functional programming is the norm. <br>
   - Dive in web3 programming. <br>
