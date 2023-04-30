@@ -88,26 +88,27 @@
 <h3 align="center">I’m currently ...</h3>
 
 <p align="center">
-  - Looking for a job<br>
+  - Working for Snapbrillia as a Web3 intern (unpaid position)<br>
+  - Working as a freelancer<br>
+  - Looking for a steadfast job/contract<br>
   - Working on my portfolio (no excuses this time).<br>
   - Studying <i>haskell</i> once again.<br>
   - Going all-in with <i>elm</i> and <i>reactjs</i>.<br>
-  - Inspired to try <i>vuejs</i>.<br>
-  - Dabbling with <i>fastify</i> and eager to learn something else.<br>
   - I WILL BRING <i> java </i> BELOW 20%.<br>
 </p>
 
 <h3 align="center">I'm eager to...</h3>
 <p align="center">
   - Work in a place where functional programming is the norm. <br>
-  - Dive in web3 programming. <br>
-  - Go back studying the Cardano Ecossystem.<br>
+  - Eager to learn another technology<br>
+  - Learn AI now or being jobless in a near future <br>
   - Master Figma. <br>
   - Try out <i>solidJs</i>. <br>
   - Work on my youtube channel. <br>
   - Quit college. <br>
  
 </p>
+<h1 align="center">PLEASE CONSIDER TO CALL ME FOR ANY POSITION OR TO WORK IN ANY PROJECT (PAID OR NOT)</h1>
 
 ## 🥸 Support me
    <h3 align="center">Do want to send me some love? Any help will make a huge impact in my life 🙌</h3>
