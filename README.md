@@ -108,7 +108,7 @@
   - Quit college. <br>
  
 </p>
-<h1 align="center">PLEASE CONSIDER TO CALL ME FOR ANY POSITION OR TO WORK IN ANY PROJECT (PAID OR NOT)</h1>
+<h4 align="center">PLEASE CONSIDER TO CALL ME FOR ANY POSITION OR TO WORK IN ANY PROJECT (PAID OR NOT)</h4>
 
 ## 🥸 Support me
    <h3 align="center">Do want to send me some love? Any help will make a huge impact in my life 🙌</h3>
