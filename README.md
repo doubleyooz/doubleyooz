@@ -13,7 +13,7 @@
    ☕ Hi, I'm Jojo
 </h3>
 <h4 align="center">
-   I'm 23 years old and I am a web developer.
+   I'm 24 years old and I am a web developer.
 </h4>
 
 <p align="center">
@@ -49,6 +49,11 @@
   <a href="https://reactjs.org">
     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
   </a>
+
+  <a href="https://vuejs.org/">
+    <img height="40" src="https://certification.vuejs.org/images/vue-badge.svg">
+  </a>
+   
   
   <a href="https://expressjs.com">
     <img height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png">
@@ -62,10 +67,6 @@
     <img height="40" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg">
   </a>
     
-  <a href="https://mongoosejs.com">
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png">
-  </a>
-   
   <a href="https://cardano.org">
     <img height="40" src="https://cdn4.iconfinder.com/data/icons/crypto-currency-and-coin-2/256/cardano_ada-512.png">
   </a>
@@ -88,9 +89,8 @@
 <h3 align="center">I’m currently ...</h3>
 
 <p align="center">
-  - Working for Snapbrillia as a Web3 intern (unpaid position)<br>
-  - Working as a freelancer<br>
-  - Looking for a steadfast job/contract<br>
+  - Working for AlexProject as a fullstack intern<br>
+  - Vuejs is my beau now.<br>
   - Working on my portfolio (no excuses this time).<br>
   - Studying <i>haskell</i> once again.<br>
   - Going all-in with <i>elm</i> and <i>reactjs</i>.<br>
@@ -100,15 +100,11 @@
 <h3 align="center">I'm eager to...</h3>
 <p align="center">
   - Work in a place where functional programming is the norm. <br>
-  - Eager to learn another technology<br>
-  - Learn AI now or being jobless in a near future <br>
+  - Work on my youtube channel. <br> 
+  - Learn AI now or being jobless in a near future (I choose being jobless) <br>
   - Master Figma. <br>
   - Try out <i>solidJs</i>. <br>
-  - Work on my youtube channel. <br>
-  - Quit college. <br>
- 
 </p>
-<h4 align="center">PLEASE CONSIDER TO CALL ME FOR ANY POSITION OR TO WORK IN ANY PROJECT (PAID OR NOT)</h4>
 
 ## 🥸 Support me
    <h3 align="center">Do want to send me some love? Any help will make a huge impact in my life 🙌</h3>
