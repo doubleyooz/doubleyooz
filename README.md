@@ -54,7 +54,7 @@
 ### 🌐 Crypto ecosystems I develop for
 <p align="center">
   <img height="40" src="https://cdn4.iconfinder.com/data/icons/crypto-currency-and-coin-2/256/cardano_ada-512.png" title="Cardano/Blockchain" />
-  <img height="40" src="https://cdn-icons-png.flaticon.com/512/14446/14446160.png "title="Ethereum/Blockchain" />
+  <img height="40" src="https://cdn-icons-png.flaticon.com/512/14446/14446160.png" title="Ethereum/Blockchain" />
   <img src="https://skillicons.dev/icons?i=ipfs" />
 </p>
 
