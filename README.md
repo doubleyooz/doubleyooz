@@ -16,12 +16,6 @@
    I'm 26 years old and I am a web developer.
 </h4>
 
-<p align="center">
-   <img width="693" src="https://github.com/doubleyooz/doubleyooz/blob/main/stats.png" />
-   <img width="285" src="https://i.imgur.com/w0lL8fM.gif" />
-</p>
-
-
 <div align="center" style="display: inline_block">
   <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
      <img height="170em" src="https://github-readme-stats-five-nu-40.vercel.app/api/?username=doubleyooz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -32,14 +26,11 @@
   </a>
 </div>
 
----
-
 ## 🛠️ Tech Stack & Tools
 
 ### 🌐 Languages & Frameworks & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts,solidity,nodejs,graphql,docker,tensorflow" />
-
 </p>
 
 ### 🎨 Frontend
@@ -96,14 +87,14 @@
 ### 🎯 Future Aspirations
 - **🏢 Functional Programming Workplace** – Seeking environments where FP is the norm
 - **🤖 AI/ML Exploration** – Balancing curiosity with practical focus
-- **🌐 Open Source** – Contributing to meaningful projects
 - **📱 Mobile Development** – Expanding beyond web
+- **💼 Hire People** - Make a breakthrough with one of my personal projects and hire a team
 
 ## ☕ Support My Work
 
 If you appreciate my projects and want to support my development journey:
 
-### Cryptocurrency
+#### 🌐 Cryptocurrency
    
    <h6 align="center">addr1q8fypjmsgn9v79v0qfj3a6v8hfls7vudes3y9jzts68ftzdnsa7ztrvqz3xfw2jd4rsltlqpvpcp5qu8adftgzgtm75qj4z5cr [ADA]</h6>
    <h6 align="center">0x8c1357293087B2d0f1EE2EeE2aa5CF0A84bf42b2 [ETH]</h6>
