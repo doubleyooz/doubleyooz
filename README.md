@@ -13,16 +13,16 @@
    ☕ Hi, I'm Jojo
 </h3>
 <h4 align="center">
-   I'm 26 years old and I am a web developer.
+   I'm 27 years old and I am a web developer.
 </h4>
 
 <div align="center" style="display: inline_block">
-  <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
-     <img height="170em" src="https://github-readme-stats-five-nu-40.vercel.app/api/?username=doubleyooz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">    
+     <img height="170em" src="https://github-stats-extended.vercel.app/api/?username=doubleyooz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   </a>
      
   <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
-     <img height="170em" src="https://github-readme-stats-five-nu-40.vercel.app/api/top-langs/?username=doubleyooz&hide=html&layout=compact&theme=radical&langs_count=6"/>
+     <img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=doubleyooz&hide=html&layout=compact&theme=radical&langs_count=6"/>
   </a>
 </div>
 
